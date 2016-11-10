@@ -1,0 +1,9 @@
+1. Open the dropbox link  https://www.dropbox.com/sh/920n2wqq2m2yjm3/AAC64jSoBZNhsCHAUvVyp6rQa?dl=0
+
+2. Download the folder --> data
+
+3. Verify data folder contanins folder : historical_data1_Q11999
+
+4. historical_data1_Q11999 has two files historical_data1_Q11999.txt and historical_data1_time_Q11999.txt.
+
+5. Put the 'data' folder and ipython note book at the same level for it to find the datafile.
